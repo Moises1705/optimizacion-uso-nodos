@@ -1,0 +1,14 @@
+# Dependencias principales para el análisis de grafos hamiltonianos en circuitos
+matplotlib>=3.5.0
+networkx>=2.8.0
+numpy>=1.21.0
+
+# Dependencias opcionales para mejorar el rendimiento
+scipy>=1.8.0
+
+# Dependencias para desarrollo (opcional)
+# pytest>=7.0.0
+# black>=22.0.0
+# flake8>=4.0.0
+
+# Nota: tkinter viene incluido con Python estándar, no necesita instalación separada
